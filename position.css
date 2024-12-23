@@ -1,0 +1,22 @@
+.KAMALI
+{
+    border: 3px solid black;
+    font-style:oblique;
+    font-size: medium;
+    position: relative;
+    top: 50px;
+}
+.KIRUBA
+{
+    border: 3px solid black;
+    font-style:oblique;
+    font-size: medium;
+    position: relative;
+    top: 50px;
+}
+p{
+   background-color: aliceblue;
+}
+h2{
+    color: cyan;
+}
