@@ -1,0 +1,25 @@
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: bisque;
+    height: 90px;
+    border-radius: 4px;
+    border:3px solid rgb(11, 44, 53);
+} 
+.one{
+    padding: 12px;
+    background-color: rgb(152, 158, 223);
+    border-radius: 4px;
+}
+.two{
+    padding: 12px;
+    background-color:rgb(198, 227, 236);
+    border-radius: 4px;
+}
+.three{
+    padding: 12px;
+    background-color:rgb(210, 121, 12) ;
+    border-radius: 4px;
+}
